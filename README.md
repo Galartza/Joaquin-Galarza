@@ -1,4 +1,6 @@
-# Joaquin-Galarza.
+👋 ¡Hola, soy Joaquín Galarza! 👨‍💻
+
+🎓 Estudiante de "Técnico Superior en Desarrollo de Software", apasionado por el mundo del desarrollo web y enfocado en el Front-end. 💻
 
 🌟 Mis habilidades incluyen: HTML, CSS, JavaScript, React, Bootstrap 5, jQuery, C#, .NET y SQL. Siempre estoy en busca de aprender más y mejorar mis habilidades técnicas. 🚀
 
