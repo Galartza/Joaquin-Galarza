@@ -11,10 +11,6 @@ Soy un estudiante de "Técnico Superior en Desarrollo de Software" y me apasiona
 - JavaScript
 - React
 - Bootstrap 5
-- jQuery
-- C#
-- .NET
-- SQL
 
 ## Sobre mí fuera de la programación
 Tengo 25 años y soy de Morteros, Córdoba, Argentina. A pesar de enfrentar desafíos, como ser un usuario de silla de ruedas debido a una lesión medular, no dejo que eso limite mi pasión por la programación y mi amor por el basquetbol adaptado en silla de ruedas. 🏀
